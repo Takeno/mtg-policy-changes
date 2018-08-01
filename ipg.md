@@ -1,6 +1,6 @@
 # MAGIC INFRACTION PROCEDURE GUIDE
 
-Effective April 27, 2018
+Effective July 13, 2018
 
 INTRODUCTION
 
@@ -120,7 +120,7 @@ Game Loss
 
 A Game Loss ends the current game immediately and the player who committed the infraction is considered to have lost the game for the purpose of match reporting. The player receiving a Game Loss chooses whether to play or draw in the next game of that match, if applicable. If a Game Loss is issued before the match begins, neither player in that match may use sideboards (if the tournament uses them) for the first game they play.
 
-Game Losses are applied to the game in which the offense occurred unless the players have begun a new game or the tournament is between rounds, in which case the loss is applied to the player’s next game. If simultaneous Game Loss penalties are issued to each player, they are recorded, but do not affect the match score
+Game Losses are applied immediately if the game is still ongoing, or to the player’s next game if it is not, unless otherwise specified. If simultaneous Game Loss penalties are issued to each player, they are recorded, but do not affect the match score
 
 Match Loss
 
@@ -168,7 +168,7 @@ Shuffles performed by a judge as part of a remedy are not considered shuffles fo
 
 Some infractions in this document permit the judge to consider the possibility of a backup. Due to the amount of information that may become available to players and might affect their play, backups are regarded as a solution of last resort, only applied in situations where leaving the game in the current state is a substantially worse solution. A good backup will result in a situation where the gained information makes no difference and the line of play remains the same (excepting the error, which has been fixed). This means limiting backups to situations with minimal decision trees.
 
-Only the Head Judge may authorize a backup. At large tournaments, they may choose to delegate this responsibility to Team Leaders.
+ Only the Head Judge may authorize a backup. At large tournaments, they may choose to delegate this responsibility to Team Leaders.
 
 To perform a backup, each individual action since the point of the error is reversed, starting with the most recent ones and working backwards. Every action must be reversed; no parts of the sequence should be omitted or reordered. If the identity of a card involved in reversing an action is unknown to one of the players (usually because it was drawn), a random card is chosen from the possible candidates. Actions that caused a player to learn the identity of cards at a specific location in the library are reversed by shuffling those cards into the random portion of the library unless they were subsequently drawn; cards being returned to the library as part of the backup should not be shuffled at that stage if their identity was known to only one player.
 
@@ -372,7 +372,7 @@ If the player has too many cards in hand, they may choose to reveal their hand, 
 
 If cards are not removed from the hand this way (either due to an error that didn't lead to too many cards, or by the player choosing not to reveal), that player takes an additional mulligan.
 
-Players may continue taking mulligans after the remedy has been completed.
+ Players may continue taking mulligans after the remedy has been completed.
 
 
 
@@ -403,6 +403,8 @@ Additional Remedy
 First, consider a simple backup (see section 1.4).
 
 If a simple backup is not sufficient and the infraction falls into one of the following categories, and only into that category, perform the appropriate partial fix:
+
+- If a player forgot to untap one or more objects at the start of their turn and it is still the same turn, untap them.
 
 - If a player made an illegal choice (including no choice where required) for a static ability generating a continuous effect still on the battlefield, that player makes a legal choice.
 
@@ -456,7 +458,7 @@ Definition
 
 A player is not in their seat at the beginning of a round, or has not completed tasks assigned within the time allocated. If a round begins before the previous round would have ended (due to all players finishing early), tardiness does not apply until the scheduled end of the previous round.
 
-If, before or during a match, a player requests permission from a judge for a delay for a legitimate task, such as a bathroom break or finding replacements for missing cards, that player may have up to 10 minutes to perform that task before they are considered tardy. If the player takes more than 10 minutes, a Match Loss will be applied. Otherwise, no penalty will be applied and a time extension given for the time taken.
+If, before or during a match, a player requests and receives permission from a judge for a delay for a legitimate task, such as a bathroom break or finding replacements for missing cards, that player has up to 10 minutes to perform that task before they are considered tardy. If the player takes more than 10 minutes, a Match Loss will be applied. Otherwise, no penalty will be applied and a time extension given for the time taken.
 
 Examples
 
@@ -569,7 +571,7 @@ Philosophy
 
 Decklists are used to ensure that decks are not altered in the course of a tournament. Judges and other tournament officials should be vigilant about reminding players before the tournament begins of the importance of submitting a legal decklist, and playing with a legal deck. A player normally receives a Game Loss if their decklist is altered after tournament play has begun.
 
-Penalties for decklist errors discovered during a deckcheck are issued immediately. Other decklist penalties are issued at the start of the next round to minimize the disruption to the match currently being played and provide consistency in case some players have finished playing their match before the penalty can be administered.
+Penalties for decklist errors discovered outside the context of the match and its procedures (such as those discovered through decklist counting) are issued at the start of the next match unless the judge believes there is strong evidence the deck itself is illegal.
 
 Ambiguous or unclear names on a decklist may allow a player to manipulate the contents of their deck up until the point at which they are discovered. Truncated names of storyline characters on decklists (legendary permanents and planeswalkers) are acceptable as long as they are the only representation of that character in the format and are treated as referring to that card, even if other cards begin with the same name.
 
@@ -599,7 +601,7 @@ If there are extra cards stored with the sideboard that could conceivably be pla
 
 - Double-faced cards being used to represent the back side of cards in the deck. These cards must not be sleeved in the same way as cards in the main deck and/or sideboard.
 
-Cards in different sleeves, tokens, and double-faced cards for which checklists are being used are ignored when determining deck (not sideboard) legality.
+ Cards in different sleeves, tokens, and double-faced cards for which checklists are being used are ignored when determining deck (not sideboard) legality.
 
 If a player is unable to locate cards (or identical equivalents) from their main deck, treat it as a Decklist Problem. If sideboard cards are missing, make a note of this, but issue no penalty.
 
@@ -629,7 +631,7 @@ Upgrade: If the deck or sideboard is discovered to be incorrect while presented 
 
 Upgrade: If an incorrect card in the deck or hand becomes visible to an opponent (for example due to it being revealed or put into a graveyard) or is discovered by a judge during a deckcheck, the penalty is a Game Loss. This upgrade still applies if the player calls a judge with an effect on the stack or resolving that might cause the card to become visible.
 
-Upgrade: If an error resulted in more copies of a main deck card being played than were registered and this was discovered after the game had begun, the penalty is a Game Loss. For example if the decklist has two copies of Shock in the main deck and two in the sideboard, but there are three copies of Shock in the library, the penalty is upgraded.
+Upgrade: If an error resulted in more copies of a main deck card being played than were registered and this was discovered after the game had begun, the penalty is a Game Loss unless all copies of the card are still in the random portion of the library. For example if the decklist has two copies of Shock in the main deck and two in the sideboard, but there are three copies of Shock in the library, the penalty is upgraded.
 
 
 
@@ -657,7 +659,7 @@ Errors in draft are disruptive and may become more so if they are not caught qui
 
 Definition
 
-A player violates the Communication policies detailed in section 4 of the Magic Tournament Rules and the judge believes their opponent has acted on the erroneous information. This infraction only applies to violations of that policy and not to general communication confusion.
+A player violates the Communication policies detailed in section 4 of the Magic Tournament Rules and the judge believes their opponent has acted or clearly chosen not to act based on the erroneous information. This infraction only applies to violations of that policy and not to general communication confusion.
 
 Examples
 
@@ -673,7 +675,7 @@ Clear communication is essential when playing Magic. Though many offenses will b
 
 A player may commit this infraction in situations where they have not spoken. A physically ambiguous board state is not automatically a penalty, but judges are encouraged to tell players to fix ambiguous placements before they might become problematic.
 
- Misapplication of a shortcut is usually not a Player Communication Violation, as the default interpretation applies in ambiguous situations and the opponent is able to act on that shortcut. Any deviation from a tournament shortcut requires a clear explanation.
+Misapplication of a shortcut is usually not a Player Communication Violation, as the default interpretation applies in ambiguous situations and the opponent is able to act on that shortcut. Any deviation from a tournament shortcut requires a clear explanation.
 
 Additional Remedy
 
@@ -691,7 +693,7 @@ Examples
 
 - A. A player has small marks on a few of their sleeves. The markings are on a Mountain, a Loxodon Hierarch, and a Lightning Helix.
 
-- B. A player without sleeves has several foil cards that stand out significantly from the rest of their deck.
+- B. A player has several foil cards that stand out significantly from the rest of their deck.
 
 - C. The basic lands in a player’s unsleeved deck are from a set with notably lighter backs.
 
@@ -703,7 +705,9 @@ This infraction applies only to cards in a player’s deck. Differently-marked s
 
 Additional Remedy
 
-The player needs to replace the card(s) or sleeve(s) with an unmarked version or, if no sleeves are being used, use sleeves that conceal the markings. If the cards themselves have become marked through play in the tournament, the Head Judge may decide to issue a proxy. If the player is unable to find replacement cards, they may replace those cards with basic lands (other than Wastes); this change may be reverted at a later point if replacements for marked cards are found.
+The player needs to replace the card(s) or sleeve(s) with an unmarked version or, if no sleeves are being used, use sleeves that conceal the markings. If the cards themselves have become marked through play in the tournament, the Head Judge may decide to issue a proxy.
+
+Upgrade: If the player is unable to find replacement cards, they may replace those cards with any combination of cards named Plains, Island, Swamp, Mountain or Forest. As the decklist is being changed to match the new contents of the deck, the penalty is a Game Loss. T his change may be reverted at a later point without further penalty if replacements for marked cards are found.
 
 Upgrade: If the Head Judge believes that a deck’s owner noticing the pattern of markings would be able to gain substantial advantage from this knowledge, the penalty is a Game Loss.
 
@@ -1040,7 +1044,23 @@ Theft of Tournament Material Disqualification
 
 APPENDIX B — CHANGES FROM PREVIOUS VERSIONS
 
- April 27, 2018 General: ”He or she” replaced with gender-neutral “they” throughout document. 2: Multi-day event penalties reset between cuts.
+July 13, 2018 1:   Clearer wording around when a Game Loss is issued
+
+2.5: Add missed untapping at the start of turn to partial fixes.
+
+3.1: Players have to get permission to be tardy, not just request it.
+
+3.4: Rewording the scope of deferred decklist errors. Most happen immediately.
+
+3.5: No upgrade if all copies of a card with too many copies are still in the library.
+
+3.7: Choosing not to act based on erroneous information may qualify for CPV.
+
+3.8: Removing the sleeve qualification from Example B, as it was not necessary.
+
+3.8: Updating the lands that can be added. Clarifying that a Game Loss is issued if the list is changed.
+
+April 27, 2018 General: ”He or she” replaced with gender-neutral “they” throughout document. 2: Multi-day event penalties reset between cuts.
 
 2.1: Wording clarity for rules-change trigger handling.
 
@@ -1085,21 +1105,6 @@ September 29, 2017
 3.5: Clearer definition of the presentation period.
 
 3.5: Deleted a stray “have”.
-
-July 14, 2017
-
-1.2: If the same error leads to multiple infractions, only apply the severest.
-
-2.2: A card moving from the library to a public zone (e.g. graveyard) may still be LEC.
-
-2.5: A simple backup may always be performed before applying a listed fix.
-
-3.4: Using the same terminology to refer to the basic lands in 3.4 and 3.5.
-
-3.5: Term changed to reflect that not all DFCs use a “night” side.
-
-3.5: Deleted a stray “have”.
-
 
 
 - All trademarks are property of Wizards of the Coast LLC in the U.S.A. and other countries. ©2018 Wizards.
