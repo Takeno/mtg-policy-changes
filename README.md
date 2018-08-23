@@ -1,6 +1,7 @@
 # Magic: The Gathering documents diffs
 
 ### Comprehensive Rules
+- [Update 2018-08-10](https://github.com/Takeno/mtg-policy-changes/commit/001f1c94d1c450c31f513512d6f738599c3238ac?w=1#diff-cffaeedf508a9aba98443c8ca15488ff)
 - [Update 2018-07-13](https://github.com/Takeno/mtg-policy-changes/commit/681417989fae68c2a3cbbc6fa1b7f5da1e114261?w=1#diff-cffaeedf508a9aba98443c8ca15488ff)
 - [Update 2018-06-08](https://github.com/Takeno/mtg-policy-changes/commit/7ff0b6ac7b1df61a7db2a8ee94c1fea7b6a43827?w=1#diff-cffaeedf508a9aba98443c8ca15488ff)
 - [Update 2018-04-13](https://github.com/Takeno/mtg-policy-changes/commit/f2584d1466b0f5f714900f9f9a0eabc13cc39e19?w=1#diff-cffaeedf508a9aba98443c8ca15488ff)
