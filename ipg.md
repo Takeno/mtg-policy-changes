@@ -1,6 +1,6 @@
 # MAGIC INFRACTION PROCEDURE GUIDE
 
-Effective July 13, 2018
+Effective October 5, 2018
 
 INTRODUCTION
 
@@ -106,7 +106,7 @@ If a minor violation is quickly handled by the players to their mutual satisfact
 
 Only the Head Judge is authorized to issue penalties that deviate from these guidelines. The Head Judge may not deviate from this guide’s procedures except in significant and exceptional circumstances or a situation that has no applicable philosophy for guidance. Significant and exceptional circumstances are rare—a table collapses, a booster contains cards from a different set, etc. The Rules Enforcement Level, round of the tournament, age or experience-level of the player, desire to educate the player, and certification level of the judge are NOT exceptional circumstances. If another judge feels deviation is appropriate, they must consult with the Head Judge.
 
-Judges are human and make mistakes. When a judge makes a mistake, they should acknowledge the mistake, apologize to the players, and fix it if it is not too late. If a member of the tournament staff gives a player erroneous information that causes them to commit a violation, the Head Judge is authorized to downgrade the penalty. For example, a player asks a judge whether a card is legal for a format and is told yes. When that player’s deck is found to be illegal because of these cards, the Head Judge applies the normal procedure for fixing the decklist, but may downgrade the penalty to a Warning because of the direct error of the judge.
+Judges are human and make mistakes. When a judge makes a mistake, they should acknowledge the mistake, apologize to the players, and fix it if it is not too late. If a member of the tournament staff gives a player erroneous information that causes them to commit a violation, the Head Judge is authorized to downgrade the penalty. For example, a player asks a judge whether a card is legal for a format and is told yes. When that player’s deck is found to be illegal because of these cards, the Head Judge applies the normal procedure for fixing the decklist, but may downgrade the penalty to a Warning because of the direct error of the judge. If a player clearly acts on erroneous information provided by a judge during the game, the Head Judge may consider a backup to the point of the action taken, even if that action did not lead to a violation.
 
 ### 1.1.  DEFINITION OF PENALTIES
 
@@ -168,7 +168,7 @@ Shuffles performed by a judge as part of a remedy are not considered shuffles fo
 
 Some infractions in this document permit the judge to consider the possibility of a backup. Due to the amount of information that may become available to players and might affect their play, backups are regarded as a solution of last resort, only applied in situations where leaving the game in the current state is a substantially worse solution. A good backup will result in a situation where the gained information makes no difference and the line of play remains the same (excepting the error, which has been fixed). This means limiting backups to situations with minimal decision trees.
 
- Only the Head Judge may authorize a backup. At large tournaments, they may choose to delegate this responsibility to Team Leaders.
+Only the Head Judge may authorize a backup. At large tournaments, they may choose to delegate this responsibility to Team Leaders.
 
 To perform a backup, each individual action since the point of the error is reversed, starting with the most recent ones and working backwards. Every action must be reversed; no parts of the sequence should be omitted or reordered. If the identity of a card involved in reversing an action is unknown to one of the players (usually because it was drawn), a random card is chosen from the possible candidates. Actions that caused a player to learn the identity of cards at a specific location in the library are reversed by shuffling those cards into the random portion of the library unless they were subsequently drawn; cards being returned to the library as part of the backup should not be shuffled at that stage if their identity was known to only one player.
 
@@ -190,7 +190,7 @@ Game Play Errors are caused by incorrect or inaccurate play of the game such tha
 
 Most Game Play Error infractions are assumed to have been committed unintentionally. If the judge believes that the error was intentional, they should first consider whether an Unsporting Conduct — Cheating infraction has occurred.
 
-With the exception of Failure to Maintain Game State, which is never upgraded, the third or subsequent penalty for a Game Play Error offense in the same category is upgraded to a Game Loss. For multi-day tournaments, the penalty count for these infractions resets between cuts.
+With the exception of Failure to Maintain Game State, which is never upgraded, the third or subsequent penalty for a Game Play Error offense in the same category is upgraded to a Game Loss. For multi-day tournaments, the penalty count for these infractions resets between days.
 
 
 
@@ -212,7 +212,11 @@ The point by which the player needs to demonstrate this awareness depends on the
 
 Once any of the above obligations has been fulfilled, further problems are treated as a Game Play Error — Game Rule Violation.
 
-Triggered abilities that do nothing except create delayed triggered abilities automatically resolve without requiring acknowledgment. Awareness of the resulting delayed trigger must be demonstrated at the appropriate point. Triggered abilities that do nothing except create one or more copies of a spell or ability (such as storm or cipher) automatically resolve, but awareness of the resulting objects must be demonstrated using the same requirements as described above (even though the objects may not be triggered abilities).
+Triggered abilities that do nothing except create delayed triggered abilities automatically resolve without requiring acknowledgment. Awareness of the resulting delayed trigger must be demonstrated at the appropriate point. Triggered abilities that do nothing except create one or more copies of a spell or ability (such as storm or cipher) automatically resolve, but awareness of
+
+
+
+the resulting objects must be demonstrated using the same requirements as described above (even though the objects may not be triggered abilities).
 
 If a triggered ability would have no impact on the game, it’s not an infraction to fail to demonstrate awareness of it. For example, if the effect of a triggered ability instructs its controller to sacrifice a creature, a player who controls no creatures isn’t required to demonstrate awareness of the ability. Similarly, a player demonstrating awareness of an optional trigger with no visible effect is assumed to have made the affirmative choice unless the opponent responds.
 
@@ -372,7 +376,7 @@ If the player has too many cards in hand, they may choose to reveal their hand, 
 
 If cards are not removed from the hand this way (either due to an error that didn't lead to too many cards, or by the player choosing not to reveal), that player takes an additional mulligan.
 
- Players may continue taking mulligans after the remedy has been completed.
+Players may continue taking mulligans after the remedy has been completed.
 
 
 
@@ -402,9 +406,9 @@ Additional Remedy
 
 First, consider a simple backup (see section 1.4).
 
-If a simple backup is not sufficient and the infraction falls into one of the following categories, and only into that category, perform the appropriate partial fix:
+If a simple backup is not sufficient and the infraction falls into one or more of the following categories, and only into those categories, perform the appropriate partial fix:
 
-- If a player forgot to untap one or more objects at the start of their turn and it is still the same turn, untap them.
+- If a player forgot to untap one or more permanents at the start of their turn and it is still the same turn, untap them.
 
 - If a player made an illegal choice (including no choice where required) for a static ability generating a continuous effect still on the battlefield, that player makes a legal choice.
 
@@ -490,9 +494,9 @@ Definition
 
 A player, spectator, or other tournament participant does any of the following:
 
-- Seeks play advice or hidden information about their match from others once they have sat for their match.
+- Seeks play advice or private information about their match from others once they have sat for their match.
 
-- Gives play advice or reveals hidden information to players who have sat for their match.
+- Gives play advice or reveals private information to players who have sat for their match.
 
 - During a game, refers to notes (other than Oracle™ pages) made before the official beginning of the current match.
 
@@ -562,7 +566,7 @@ Examples
 
 - C. A player lists ‘Sarkhan’ in a format with both Sarkhan, the Dragonspeaker and Sarkhan Unbroken.
 
-- D. A player loses some cards and is unable to find replacement copies, making their unable to play a deck that matches their decklist.
+- D. A player loses some cards and is unable to find replacement copies, making them unable to play a deck that matches their decklist.
 
 - E. A player registers Ajani, Valiant Protector, but they are playing Ajani Unyielding.
 
@@ -573,7 +577,7 @@ Decklists are used to ensure that decks are not altered in the course of a tourn
 
 Penalties for decklist errors discovered outside the context of the match and its procedures (such as those discovered through decklist counting) are issued at the start of the next match unless the judge believes there is strong evidence the deck itself is illegal.
 
-Ambiguous or unclear names on a decklist may allow a player to manipulate the contents of their deck up until the point at which they are discovered. Truncated names of storyline characters on decklists (legendary permanents and planeswalkers) are acceptable as long as they are the only representation of that character in the format and are treated as referring to that card, even if other cards begin with the same name.
+Ambiguous or unclear names on a decklist may allow a player to manipulate the contents of their deck up until the point at which they are discovered. Truncated names of storyline characters on decklists (planeswalkers and other legendary permanents) are acceptable as long as they are the only representation of that character in the format and are treated as referring to that card, even if other cards begin with the same name.
 
 The Head Judge may choose to not issue this penalty if they believe that what the player wrote on their decklist is obvious and unambiguous, even if it is not the full, accurate name of the card. In Limited tournaments, the Head Judge may choose not to issue this penalty for incorrectly marked basic land counts if they believe the correct land count is obvious. This should be determined solely by what is written on the decklist, and not based on intent or the actual contents of the deck; needing to check the deck for confirmation is a sign that the entry is not obvious.
 
@@ -581,7 +585,7 @@ Additional Remedy
 
 If the decklist contains illegal cards, remove them.
 
-Alter the decklist to match the deck the player is actually playing. If the deck/sideboard and decklist both violate a maximum cards restriction (usually too many cards in a sideboard or more than four of a card), remove cards starting from the bottom of the appropriate section of the list or lists.
+Alter the decklist to match the deck the player is actually playing. If the deck/sideboard and decklist both violate a maximum cards restriction (usually too many cards in a sideboard, more than four of a card, or the same card in two decks in a Unified Constructed format), remove cards as directed by the player to make the decklist legal.
 
 If the deck contains too few cards, the player chooses to add any combination of cards named Plains, Island, Swamp, Mountain or Forest to reach the minimum number. Alter the decklist to reflect this. These changes may be reverted without penalty if the player is subsequently able to locate identical replacements to legal original cards.
 
@@ -601,7 +605,7 @@ If there are extra cards stored with the sideboard that could conceivably be pla
 
 - Double-faced cards being used to represent the back side of cards in the deck. These cards must not be sleeved in the same way as cards in the main deck and/or sideboard.
 
- Cards in different sleeves, tokens, and double-faced cards for which checklists are being used are ignored when determining deck (not sideboard) legality.
+Cards in different sleeves, tokens, and double-faced cards for which checklists are being used are ignored when determining deck (not sideboard) legality.
 
 If a player is unable to locate cards (or identical equivalents) from their main deck, treat it as a Decklist Problem. If sideboard cards are missing, make a note of this, but issue no penalty.
 
@@ -631,7 +635,7 @@ Upgrade: If the deck or sideboard is discovered to be incorrect while presented 
 
 Upgrade: If an incorrect card in the deck or hand becomes visible to an opponent (for example due to it being revealed or put into a graveyard) or is discovered by a judge during a deckcheck, the penalty is a Game Loss. This upgrade still applies if the player calls a judge with an effect on the stack or resolving that might cause the card to become visible.
 
-Upgrade: If an error resulted in more copies of a main deck card being played than were registered and this was discovered after the game had begun, the penalty is a Game Loss unless all copies of the card are still in the random portion of the library. For example if the decklist has two copies of Shock in the main deck and two in the sideboard, but there are three copies of Shock in the library, the penalty is upgraded.
+Upgrade: If an error resulted in more copies of a main deck card being played than were registered and this was discovered after the game had begun, the penalty is a Game Loss unless all copies of the card are still in the random portion of the library. For example if the decklist has two copies of Shock in the main deck and two in the sideboard, but a search finds two copies of Shock in the library with another already in the graveyard, the penalty is upgraded.
 
 
 
@@ -707,7 +711,7 @@ Additional Remedy
 
 The player needs to replace the card(s) or sleeve(s) with an unmarked version or, if no sleeves are being used, use sleeves that conceal the markings. If the cards themselves have become marked through play in the tournament, the Head Judge may decide to issue a proxy.
 
-Upgrade: If the player is unable to find replacement cards, they may replace those cards with any combination of cards named Plains, Island, Swamp, Mountain or Forest. As the decklist is being changed to match the new contents of the deck, the penalty is a Game Loss. T his change may be reverted at a later point without further penalty if replacements for marked cards are found.
+Upgrade: If the player is unable to find replacement cards, they may replace those cards with any combination of cards named Plains, Island, Swamp, Mountain or Forest. As the decklist is being changed to match the new contents of the deck, the penalty is a Game Loss. This change may be reverted at a later point without further penalty if replacements for marked cards are found.
 
 Upgrade: If the Head Judge believes that a deck’s owner noticing the pattern of markings would be able to gain substantial advantage from this knowledge, the penalty is a Game Loss.
 
@@ -737,7 +741,7 @@ A player should shuffle their deck using multiple methods. Patterned pile-shuffl
 
 Additional Remedy
 
-Shuffle the random portion of the deck thoroughly.
+Shuffle the appropriate portion of the deck thoroughly.
 
 
 
@@ -887,9 +891,9 @@ A player acts in a threatening way towards others or their property.
 
 Examples
 
-- A. A player threatens to hit another player who won’t concede to him.
+- A. A player threatens to hit another player who won’t concede to them.
 
-- B. A player pulls a chair out from under another player, causing their to fall to the ground.
+- B. A player pulls a chair out from under another player, causing them to fall to the ground.
 
 - C. A player makes threats against a judge after receiving a ruling.
 
@@ -1044,7 +1048,23 @@ Theft of Tournament Material Disqualification
 
 APPENDIX B — CHANGES FROM PREVIOUS VERSIONS
 
-July 13, 2018 1:   Clearer wording around when a Game Loss is issued
+October 5, 2018 1: Head Judges may back up decisions caused by judge error. 2: Moved multi-day tournament penalty resets back to end of day.
+
+2.5: Partial fixes can cross categories as long as all the remedy falls into one of the categories.
+
+2.5: Permanents are the only type of object that untaps.
+
+3.2: Using private information instead of hidden information for what a player might seek.
+
+3.4: Planeswalkers are now legendary.
+
+3.4: Players decide where excess cards are removed from.
+
+3.5: Final upgrade example reworded to be clearer.
+
+3.9: Better wording to handle effects that only shuffle a set of cards in the deck.
+
+July 13, 2018 1:   Clearer wording around when a Game Loss is issued.
 
 2.5: Add missed untapping at the start of turn to partial fixes.
 
@@ -1078,7 +1098,7 @@ April 27, 2018 General: ”He or she” replaced with gender-neutral “they” 
 
 January 19, 2018
 
-1.4: Allows shuffling suring a backup to remove certain types of knowledge.
+1.4: Allows shuffling during a backup to remove certain types of knowledge.
 
 2.4: The error actually has to be part of the mulligan process not just during it.
 
@@ -1090,21 +1110,6 @@ January 19, 2018
 
 3.5: Both players receive a penalty (but not necessarily a warning) for card-in-wrong-deck
 
-September 29, 2017
-
-1.1: Removed outdated philosophy paragraph for Game Loss. Updated Match Loss one.
-
-1.1: Game losses when opponent gets a match loss don’t get deferred.
-
-1.2: Fixed outdated reference to Deck Errors.
-
-2.1: “When you do” triggers following an optional action are considered communicated.
-
-3.2: Downgrade available when the information could have been acquired between games.
-
-3.5: Clearer definition of the presentation period.
-
-3.5: Deleted a stray “have”.
 
 
 - All trademarks are property of Wizards of the Coast LLC in the U.S.A. and other countries. ©2018 Wizards.
