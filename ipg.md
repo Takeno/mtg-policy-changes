@@ -1,6 +1,6 @@
 # MAGIC INFRACTION PROCEDURE GUIDE
 
-Effective October 5, 2018
+Effective January 21, 2019
 
 INTRODUCTION
 
@@ -112,7 +112,7 @@ Judges are human and make mistakes. When a judge makes a mistake, they should ac
 
 Warning
 
-A Warning is an officially tracked penalty. Warnings are used in situations of incorrect play when a small amount of time is needed to implement the corrective procedure. The purpose of a Warning is to alert judges and players involved that a problem has occurred and to keep a permanent record of the infraction in the DCI Penalty Database. A time extension should be issued if the ruling has taken more than a minute.
+Warnings are used in situations of incorrect play when a small amount of time is needed to implement the corrective procedure. The purpose of a Warning is to alert judges and players involved that a problem has occurred and to keep a permanent record of the infraction. A time extension should be issued if the ruling has taken more than a minute.
 
 
 
@@ -126,7 +126,7 @@ Match Loss
 
 A Match Loss is a severe penalty that is usually issued when the match itself has been compromised.
 
-Match Losses are applied to the match during which the offense occurred unless the match has already ended, in which case the penalty will be applied to the player’s next match.
+Match Losses are applied to the match during which the offense occurred unless the offender’s match has already ended, in which case the penalty will be applied to that player’s next match.
 
 Disqualification
 
@@ -138,7 +138,7 @@ Disqualification can occur without proof of action so long as the Head Judge det
 
 When this penalty is applied, the player loses their current match and is dropped from the tournament. If a player has already received prizes at the time they are disqualified, that player may keep those prizes but does not receive any additional prizes or awards they may be due. A player that is disqualified from a tournament does not receive Planeswalker Points or Professional Points for that tournament.
 
-When a player is disqualified during a tournament, they are removed from the tournament and do not take up a place in the standings. This means that all players in the tournament will advance one spot in the standings and are entitled to any prizes the new standing would offer. If the Disqualification takes place after a cut is made, no additional players advance in place of the disqualified player although they do move up a spot in the standings. For example, if a player is disqualified during the quarterfinal round of a Preliminary Pro Tour Qualifier, the former 9th place finisher does not advance into the single elimination top 8, but they do move into 8th place in the standings.
+When a player is disqualified during a tournament, they are removed from the tournament and do not take up a place in the standings. This means that all players in the tournament will advance one spot in the standings and are entitled to any prizes the new standing would offer. If the Disqualification takes place after a cut is made, no additional players advance in place of the disqualified player although they do move up a spot in the standings. For example, if a player is disqualified during the quarterfinal round of a Magic Tabletop Mythic Qualifier, the former 9th place finisher does not advance into the single elimination top 8, but they do move into 8th place in the standings.
 
 More information about the Disqualification process may be found at http://blogs.magicjudges.org/o/disqualification-process/.
 
@@ -198,7 +198,7 @@ With the exception of Failure to Maintain Game State, which is never upgraded, t
 
 Definition
 
-A triggered ability triggers, but the player controlling the ability doesn’t demonstrate awareness of the trigger’s existence the first time that it would affect the game in a visible fashion.
+A triggered ability triggers, but the player controlling the ability doesn’t demonstrate awareness of the trigger’s existence by the first time that it would affect the game in a visible fashion.
 
 The point by which the player needs to demonstrate this awareness depends on the impact that the trigger would have on the game:
 
@@ -217,6 +217,8 @@ Triggered abilities that do nothing except create delayed triggered abilities au
 
 
 the resulting objects must be demonstrated using the same requirements as described above (even though the objects may not be triggered abilities).
+
+Abilities consisting of an action followed by “when you do” in the same ability are considered communicated by the announcement of the action. This is most commonly the case for exert and similar abilities.
 
 If a triggered ability would have no impact on the game, it’s not an infraction to fail to demonstrate awareness of it. For example, if the effect of a triggered ability instructs its controller to sacrifice a creature, a player who controls no creatures isn’t required to demonstrate awareness of the ability. Similarly, a player demonstrating awareness of an optional trigger with no visible effect is assumed to have made the affirmative choice unless the opponent responds.
 
@@ -238,27 +240,24 @@ Philosophy
 
 Triggered abilities are common and invisible, so players should not be harshly penalized when forgetting about one. Players are expected to remember their own triggered abilities; intentionally ignoring one may be Unsporting Conduct — Cheating (unless the ability would have no impact on the game as described above). Even if an opponent is involved in the announcement or resolution of the ability, the controller is still responsible for ensuring the opponents make the appropriate choices and take the appropriate actions. Opponents are not required to point out triggered abilities that they do not control, though they may do so if they wish.
 
-Triggered abilities are assumed to be remembered until otherwise indicated, and the impact on the game state may not be immediately apparent. The opponent’s benefit is in not having to point out triggered abilities, although this does not mean that they can cause triggers to be missed. If an opponent requires information about the precise timing of a triggered ability or needs details about a game object that may be affected by a resolved triggered ability, that player may need to acknowledge that ability’s existence before its controller does. A player who makes a play that may or may not be legal depending on whether an uncommunicated trigger has been remembered has not committed an infraction; their play either succeeds, confirming that the trigger has been missed, or is rewound.
+Triggered abilities are assumed to be remembered until otherwise indicated, and the impact on the game state may not be immediately apparent. The opponent’s benefit is in not having to point out triggered abilities, although this does not mean that they can cause triggers to be missed. If an opponent requires information about the precise timing of a triggered ability or needs details about a game object that may be affected by a resolved triggered ability, that player may need to acknowledge that ability’s existence before its controller does. A player who makes a play that may or may not be legal depending on whether an opponent’s uncommunicated trigger has been remembered has not committed an infraction; their play either succeeds, confirming that the trigger has been missed, or is rewound.
 
 Players may not cause triggered abilities controlled by an opponent to be missed by taking game actions or otherwise prematurely advancing the game. During an opponent’s turn, if a trigger’s controller demonstrates awareness of the trigger before they take an active role (such as taking an action or explicitly passing priority), the trigger is remembered. The Out-of-Order Sequencing rules (MTR section 4.3) may also be applicable, especially as they relate to batches of actions or resolving items on the stack in an improper order.
 
  Additional Remedy
 
- Three types of triggered abilities do not expire and resolve immediately if they are discovered:
+If the triggered ability is an enters-the-battlefield trigger of an Aura that affects only the enchanted permanent and causes a visible change to that permanent, resolve the ability immediately.
 
-- A triggered ability that specifies a default action associated with a choice made by the controller (usually "If you don't ..." or "... unless"). The opponent may choose not to resolve this trigger. Otherwise the default action must be chosen.
+If the triggered ability is a delayed triggered ability that undoes a zone change (including token creation) caused by the spell or ability that created the delayed triggered ability, the opponent chooses whether to resolve the ability the next time a player would get priority or when a player would get priority at the start of the next phase.
 
-- An enters-the-battlefield trigger of an Aura that affects only the enchanted permanent and causes a visible change to that permanent.
+For all other triggered abilities, if the ability was missed prior to the current phase in the previous turn, instruct the players to continue playing. If the triggered ability created an effect whose duration has already expired, instruct the players to continue playing.
 
-- A delayed triggered ability that changes the zone of one or more objects defined when the ability was created. For this trigger, the opponent chooses whether to resolve the ability the next time a player would get priority or when a player would get priority at the start of the next phase.
+If the triggered ability isn’t covered by the previous paragraphs, the opponent chooses whether the triggered ability is added to the stack. If it is, it’s inserted at the appropriate place on the stack if possible or on the bottom of the stack. No player may make choices involving objects that would not have been legal choices when the ability should have triggered. For example, if the ability instructs a player to sacrifice a creature, that player can't sacrifice a creature that wasn't on the battlefield when the ability should have triggered.
 
-Abilities consisting of an action followed by “when you do” in the same ability are considered communicated by the announcement of the action. This is most commonly the case for exert and similar abilities.
 
-If the ability was missed prior to the current phase in the previous turn, instruct the players to continue playing. If the triggered ability created an effect whose duration has already expired, instruct the players to continue playing.
 
-If the triggered ability isn’t covered by the previous two paragraphs, the opponent chooses whether the triggered ability is added to the stack. If it is, it’s inserted at the appropriate place on the stack if possible or on the bottom of the stack. No player may make choices involving objects that would not have been legal choices when the ability should have triggered. For example, if the ability instructs a player to sacrifice a creature, that player can't sacrifice a creature that wasn't on the battlefield when the ability should have triggered.
 
-Upgrade: If the triggered ability is usually considered detrimental for the controlling player the penalty is a Warning. The current game state is not a factor in determining this, though symmetrical abilities (such as Howling Mine) may be considered usually detrimental or not depending on who is being affected
+Upgrade: If the triggered ability is usually considered detrimental for the controlling player and they own the card responsible for the existence of the trigger, the penalty is a Warning. The current game state is not a factor in determining this, though symmetrical abilities (such as Howling Mine) may be considered usually detrimental or not depending on who is being affected
 
 
 
@@ -296,11 +295,10 @@ Shuffle any previously unknown cards into the random portion of the deck, then p
 
 Definition
 
-A player commits an error in the game that cannot be corrected by only publicly available information and does so without their opponent’s permission.
+A player commits an error in the game that cannot be corrected by only publicly available information and does so without their opponent’s permission. This infraction only applies when a card whose identity is known to only one player is in a hidden set of cards both before and after the error.
 
-This infraction only applies when a card whose identity is known to only one player is in a hidden set of cards both before and after the error.
+If an additional card is seen but not added to the set, the infraction is Game Play Error —Looking at Extra Cards.
 
-This infraction does not apply to simple dexterity errors, such as when a card being pulled off the library sticks to another card and is seen or knocked off the library. The cards themselves must be part of a distinct set intended by the player.
 
 Examples
 
@@ -340,7 +338,7 @@ If the error put cards into a set prematurely and other operations involving car
 
 If the error involves one or more cards that were supposed to be revealed, the player reveals the set of cards that contains the unrevealed cards and their opponent chooses that many previously-unknown cards. Treat those as the cards that were ‘revealed’ and return them to the set that was being selected from; the player then reperforms the action. If recreating the original selection set and reperforming the action would be too disruptive, leave the selected cards in hand.
 
-If a set affected by the error contains more cards than it is supposed to contain, the player reveals the set of cards that contains the excess and their opponent chooses a number of previously-unknown cards sufficient to reduce the set to the correct size. These excess cards are returned to the correct location. If that location is the library, they should be shuffled into the random portion unless the owner previously knew the identity of the card/cards illegally moved; that many cards, chosen by the opponent, are returned to the top of the library instead. For example, if a player playing with Sphinx of Jwar Isle illegally draws a card, that card should be returned to the top of the library.
+If a set affected by the error contains more cards than it is supposed to contain, the player reveals the set of cards that contains the excess and their opponent chooses a number of previously-unknown cards sufficient to reduce the set to the correct size. These excess cards are returned to the correct location. If that location is the library, they should be shuffled into the random portion unless the owner previously knew the identity of the card/cards illegally moved; that many cards, chosen by the opponent, are returned to the original location instead. For example, if a player playing with Sphinx of Jwar Isle illegally draws a card, that card should be returned to the top of the library.
 
 Upgrade: If a face-down card cast using a morph ability is discovered during the game to not have a morph ability, the penalty is a Game Loss. If the player has one or more cards with a morph ability in hand, has not added previously unknown cards to their hand since casting the card found in violation, and has discovered the error themselves, the upgrade does not apply and they may swap the card for a card with the morph ability in hand.
 
@@ -414,7 +412,7 @@ If a simple backup is not sufficient and the infraction falls into one or more o
 
 - If a player failed to draw cards, discard cards, or return cards from their hand to another zone, that player does so.
 
-- If an object is in an incorrect zone either due to a required zone change being missed or due to being put into the wrong zone during a zone change, the identity of the object was known to all players, and it can be moved with only minor disruption to the current state of the game, put the object in the correct zone.
+- If an object is in an incorrect zone either due to a required zone change being missed or due to being put into the wrong zone during a zone change, the exact object is still known to all players, and it can be moved with only minor disruption to the current state of the game, put the object in the correct zone.
 
 - If damage assignment order has not been declared, the appropriate player chooses that order.
 
@@ -424,7 +422,7 @@ Otherwise, a full backup may be considered or the game state may be left as is.
 
 
 
-For most Game Play Errors not caught within a time that a player could reasonably be expected to notice, opponents receive a Game Play Error — Failure to Maintain Game State penalty. If the judge believes that both players were responsible for a Game Rule Violation, such as due to the existence of replacement effects or a player taking action based on another players instruction, both players receive a Game Play Error — Game Rule Violation. For example, if a player casts Path to Exile on an opponent’s creature and the opponent puts the creature into the graveyard, both players have committed this infraction.
+For most Game Play Errors not caught within a time that a player could reasonably be expected to notice, opponents receive a Game Play Error — Failure to Maintain Game State penalty. If the judge believes that both players were responsible for a Game Rule Violation, such as due to the existence of replacement effects or a player taking action based on another player’s instruction, both players receive a Game Play Error — Game Rule Violation. For example, if a player casts Path to Exile on an opponent’s creature and the opponent puts the creature into the graveyard, both players have committed this infraction.
 
 
 
@@ -452,7 +450,7 @@ Tournament errors are violations of the Magic Tournament Rules. If the judge bel
 
 If a player violates the Magic Tournament Rules in a way that is not covered by one of the infractions listed below, the judge should explain the appropriate procedure to the player, but not issue a penalty. Continued or willful disregard of these rules may require further investigation.
 
-A second or subsequent Warning for a Tournament Error offense in the same category is upgraded to a Game Loss. For multi-day tournaments, the penalty count for these infractions resets between cuts.
+A second or subsequent Warning for a Tournament Error offense in the same category is upgraded to a Game Loss. For multi-day tournaments, the penalty count for these infractions resets between days.
 
 
 
@@ -607,7 +605,7 @@ If there are extra cards stored with the sideboard that could conceivably be pla
 
 Cards in different sleeves, tokens, and double-faced cards for which checklists are being used are ignored when determining deck (not sideboard) legality.
 
-If a player is unable to locate cards (or identical equivalents) from their main deck, treat it as a Decklist Problem. If sideboard cards are missing, make a note of this, but issue no penalty.
+If a player is unable to locate cards (or identical equivalents) from their main deck, treat it as a Decklist Problem instead. If sideboard cards are missing, make a note of this, but issue no penalty.
 
 Examples
 
@@ -627,7 +625,7 @@ A window in which the error is a Game Loss is necessary to discourage intentiona
 
 Additional Remedy
 
-Remove any incorrect cards from the deck, including any sideboard cards that could not yet legally have been added. Locate any cards missing from the deck and shuffle them into the randomized portion of the deck. If the missing card(s) are with the sideboard and it isn’t the first game, choose the ones to be shuffled into the deck at random from all sideboard cards. If the error is discovered during opening hands, instruct the player to mulligan. Otherwise, do not replace discovered erroneous cards in hands or other sets (such as a group of cards being scried or drawn).
+Remove any incorrect cards from the deck, including any sideboard cards that could not yet legally have been added. Locate any cards missing from the deck and shuffle them into the randomized portion of the deck. If the missing card(s) are with the sideboard and it isn’t the first game, choose the ones to be shuffled into the deck at random from main deck cards in the sideboard. If the error is discovered during opening hands, instruct the player to mulligan. Otherwise, do not replace discovered erroneous cards in hands or other sets (such as a group of cards being scried or drawn).
 
 If the missing card(s) were in a previous or current opponent’s deck, issue penalties to both players.
 
@@ -652,6 +650,8 @@ Examples
 - B. A player exceeds the amount of time allotted for a draft pick.
 
 - C. A player puts a card on top of their draft pile, then pulls it back.
+
+- D. A player moves their head to the side at inappropriate times.
 
 Philosophy
 
@@ -825,13 +825,13 @@ Upgrade: If the offense was committed with malicious intent, the player displays
 
 
 
-### 4.3.      Unsporting Conduct — Improperly Determining a Winner Disqualification
+### 4.3.      Unsporting Conduct — Improperly Determining a Winner Match Loss
 
 Definition
 
-A player uses or offers to use a method that is not part of the current game (including actions not legal in the current game) to determine the outcome of a game or match.
+A player uses or offers to use a method that is not part of the current game (including actions not legal in the current game) to determine the outcome of a game or match, or uses language designed to trick someone who may not know it’s against the rules to make such an offer.
 
-A player who receives an offer and does not immediately contact a tournament official is considered complicit in the offer and will receive the same penalty.
+If the player was aware that what they were doing was against the rules, the infraction is Unsporting Conduct — Cheating.
 
 Examples
 
@@ -847,6 +847,8 @@ Examples
 
 - F. Two players reveal cards from the top of their libraries to see “who would win” after extra turns.
 
+- G. A player says “Oh no, we’re going to draw, that’s terrible for us. If only there were something we could do about it.”
+
 Philosophy
 
 Using an outside-the-game method to determine a winner compromises the integrity of the tournament.
@@ -855,15 +857,16 @@ Matches that result in a draw due to time are expected to be reported as such an
 
 
 
-### 4.4.      Unsporting Conduct — Bribery and Wagering Disqualification
+### 4.4.      Unsporting Conduct — Bribery and Wagering Match Loss
 
 Definition
 
-A player offers an incentive to entice an opponent into conceding, drawing, or changing the results of a match, or accepts such an offer. Refer to section 5.2 of the Magic Tournament Rules for a more detailed description of what constitutes bribery.
+A player offers an incentive to entice an opponent into conceding, drawing, or changing the results of a match, encourages such an offer, or accepts such an offer. Refer to section 5.2 of the Magic Tournament Rules for a more detailed description of what constitutes bribery.
 
 Wagering occurs when a player or spectator at a tournament places or offers to place a bet on the outcome of a tournament, match or any portion of a tournament or match. The wager does not need to be monetary, nor is it relevant if a player is not betting on their own match.
 
-A player who receives an offer and does not immediately contact a tournament official is considered complicit in the offer and will receive the same penalty.
+If the player was aware that what they were doing was against the rules, the infraction is Unsporting Conduct — Cheating.
+
 
 Examples
 
@@ -1030,9 +1033,9 @@ Unsporting Conduct — Minor Warning
 
 Unsporting Conduct — Major Match Loss
 
-Improperly Determining a Winner Disqualification
+Improperly Determining a Winner Match Loss
 
-- Bribery and Wagering Disqualification
+- Bribery and Wagering Match Loss
 
 - Aggressive Behavior Disqualification
 
@@ -1047,6 +1050,34 @@ Theft of Tournament Material Disqualification
 
 
 APPENDIX B — CHANGES FROM PREVIOUS VERSIONS
+
+January 21, 2019
+
+2.1: No more special handling for default triggers. Revised guidance for zone change cleanups.
+
+2.1: Detrimental trigger assessment includes whether you own the card that caused the trigger.
+
+2.3: Clarification of the boundary with Looking at Extra Cards.
+
+2.3: Cards being returned go to the original location, not just top-of-library.
+
+2.5: Zone change partial fix does not require known identity. 3: Moved multi-day tournament penalty resets back to end of day (matches section 2).
+
+3.5: When shuffling cards back in from the sideboard, only choose from cards originally in the deck.
+
+3.6: Players moving their heads inappropriately can be a Limited Procedure Violation.
+
+4.3: Now baseline Match Loss. Knowing that it’s illegal makes it Cheating.
+
+4.3: Tricking your opponent into improper determination is also improper determination.
+
+4.3: Players are no longer required to report proposals to a Tournament Official.
+
+4.4: Now baseline Match Loss. Knowing that it’s illegal makes it Cheating.
+
+4.4: Tricking your opponent into making a bribery offer or wager is also illegal.
+
+4.4: Players are no longer required to report proposals to a Tournament Official.
 
 October 5, 2018 1: Head Judges may back up decisions caused by judge error. 2: Moved multi-day tournament penalty resets back to end of day.
 
@@ -1096,21 +1127,6 @@ April 27, 2018 General: ”He or she” replaced with gender-neutral “they” 
 
 3.8: Wastes can’t be put into a deck when adding basic lands.
 
-January 19, 2018
 
-1.4: Allows shuffling during a backup to remove certain types of knowledge.
-
-2.4: The error actually has to be part of the mulligan process not just during it.
-
-2.5: Moved around pieces for clarity.
-
-2.5: Partial fixes don’t create triggers that wouldn’t have been there at the time.
-
-3.5: Missing cards go into the random part of the deck.
-
-3.5: Both players receive a penalty (but not necessarily a warning) for card-in-wrong-deck
-
-
-
-- All trademarks are property of Wizards of the Coast LLC in the U.S.A. and other countries. ©2018 Wizards.
+- All trademarks are property of Wizards of the Coast LLC in the U.S.A. and other countries. ©2019 Wizards.
 
