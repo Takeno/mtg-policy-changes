@@ -11,6 +11,7 @@ For a better experience, see [yawgatog.com/resources/rules-changes/](https://yaw
 
 
 ### Infraction Procedure Guide ([latest](https://wpn.wizards.com/en/document/magic-infraction-procedure-guide))
+- [Update 2019-01-21](https://github.com/Takeno/mtg-policy-changes/commit/5dcb1aa4c2fc6d82cc87a05315e918fdf6b004ef?w=1#diff-cdf694499c9a36e95da41407541fedec)
 - [Update 2018-10-05](https://github.com/Takeno/mtg-policy-changes/commit/4e8d5eab75c09f050fbf15a534a020dca7d00f54?w=1#diff-cdf694499c9a36e95da41407541fedec)
 - [Update 2018-07-13](https://github.com/Takeno/mtg-policy-changes/commit/65466b42cfd539fa5a58f87232c89535e450e936?w=1#diff-cdf694499c9a36e95da41407541fedec)
 - [Update 2018-04-27](https://github.com/Takeno/mtg-policy-changes/commit/a91d6467e53b5f58d2288a441596a370adde5af6?w=1#diff-cdf694499c9a36e95da41407541fedec)
